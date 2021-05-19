@@ -1,8 +1,9 @@
 <?php
-    include_once 'includes/dbh.inc.php';
+    // include_once 'includes/dbh.inc.php';
+    echo "Hello world";
 ?>
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <script src="jquery-2.1.4.js"></script>
@@ -48,4 +49,4 @@
 
 </body>
 
-</html>
+</html> -->
