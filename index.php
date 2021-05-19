@@ -1,13 +1,13 @@
 <?php
-    // include_once 'includes/dbh.inc.php';
+    include_once 'includes/dbh.inc.php';
    
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- <script src="jquery-2.1.4.js"></script>
-	<script src="requests.js"></script> -->
+    <script src="jquery-2.1.4.js"></script>
+	<script src="requests.js"></script>
     <title>Log report</title>
 </head>
 
