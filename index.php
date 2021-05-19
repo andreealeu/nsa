@@ -1,14 +1,14 @@
 <?php
     // include_once 'includes/dbh.inc.php';
-    echo "Hello world";
+   
 ?>
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <script src="jquery-2.1.4.js"></script>
-	<script src="requests.js"></script>
-    <title></title>
+    <!-- <script src="jquery-2.1.4.js"></script>
+	<script src="requests.js"></script> -->
+    <title>Log report</title>
 </head>
 
 <body>
@@ -49,4 +49,4 @@
 
 </body>
 
-</html> -->
+</html>
